@@ -1,6 +1,6 @@
 ---
 title: "Activity 8"
-author: "Name"
+author: "Hudson Ruhlig"
 output: github_document
 ---
 
